@@ -104,9 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "ku 空"
+  name             : "空"
   avatar           : ./assets/img/profil_pic.jpg
-  bio              : "What is seen is empty, what is empty is seen"
+  bio              : " matter is not different from emptiness, and
+                      Emptiness is not different from matter.
+                      Matter is emptiness and emptiness is matter."
   location         : "Nowhere to be found"
   email            : "lumenrectis@proton.me"
   links:
