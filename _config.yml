@@ -20,7 +20,7 @@ title                    : "Ku's vacuity"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "空"
-description              : "What is empty is seen, what is seen is empty"
+description              : ""
 url                      : https://kuyeshishiki.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,7 @@ analytics:
 author:
   name             : "空"
   avatar           : ./assets/img/profil_pic.jpg
-  bio              : " matter is not different from emptiness, and
-                      Emptiness is not different from matter.
-                      Matter is emptiness and emptiness is matter."
+  bio              : "Matter is emptiness and emptiness is matter."
   location         : "Nowhere to be found"
   email            : "lumenrectis@proton.me"
   links:
