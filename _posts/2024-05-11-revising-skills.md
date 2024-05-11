@@ -6,6 +6,7 @@ defaults:
       type: posts
     values:
       layout: single
+    toc: true
 ---
 
 # Note that this is a test
