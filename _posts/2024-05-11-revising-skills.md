@@ -6,7 +6,8 @@ defaults:
       type: posts
     values:
       layout: single
-    toc: true
+      show_date: true
+toc: true
 ---
 
 # Note that this is a test
